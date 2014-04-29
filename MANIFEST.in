@@ -1,0 +1,8 @@
+include COPYING
+include COPYING.LESSER
+include CHANGES.rst
+include README.rst
+include *.py
+include buildout.cfg
+include tox.ini
+include mete0r_olefilefs/tests/files/*
